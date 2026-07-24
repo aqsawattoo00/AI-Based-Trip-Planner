@@ -11,9 +11,6 @@ A full-stack AI-powered trip planning application built as a university project.
 | Frontend | React.js, Tailwind CSS |
 | Backend | Node.js, Express.js |
 | Database | MongoDB + Mongoose |
-| Queue | Redis + BullMQ |
-| Streaming | Server-Sent Events (SSE) |
-| AI | OpenAI GPT-4.1-mini (streaming) |
 | ML Service | Python Flask, scikit-learn RandomForestRegressor, Content-Based Filtering |
 | Maps | Google Maps Directions API + Places API + Embed API |
 | Weather | OpenWeatherMap API |
